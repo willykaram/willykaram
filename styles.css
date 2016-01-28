@@ -21,7 +21,7 @@ div, p, body, a{
   right: 0;
 	padding-bottom: 10px;
 	padding-right: 10px;
-  background: url(bg.png) right bottom no-repeat;
+  background: url(bg-home.png) right bottom no-repeat;
 	width: 360px;
 	height: 280px;
 }
