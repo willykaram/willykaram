@@ -1,4 +1,4 @@
-div, p, body, a{
+div, p, body, a {
 	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
 
@@ -24,4 +24,11 @@ div, p, body, a{
   background: url(bg-home.png) right bottom no-repeat;
 	width: 360px;
 	height: 280px;
+}
+
+
+.icon-links {
+  position: absolute;
+	right: 15px;
+	bottom: 10px;
 }
