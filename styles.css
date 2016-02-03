@@ -29,13 +29,13 @@ div, p, body, a {
 
 .icon-links {
   position: absolute;
-	right: 18px;
-	bottom: 13px;
+	right: 12px;
+	bottom: 10px;
 }
 
 .icon-links a {
 	color: silver;
-	font-size: 1.1em;
+	font-size: 1em;
 	padding: .25em;
 }
 
