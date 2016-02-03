@@ -35,7 +35,8 @@ div, p, body, a {
 
 .icon-links a {
 	color: silver;
-	font-size: 1.35em;
+	font-size: 1.1em;
+	padding: .25em;
 }
 
 .icon-links a:hover {
